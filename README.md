@@ -56,6 +56,31 @@ I have a solid foundation in **C++** and continuously improve my coding skills b
 ## 📬 Contact
 
 GitHub: https://github.com/itsabira16445
+---
+
+## 📸 Project Screenshots
+
+### 1. Main Menu
+![Main Menu](images/01_main_menu.png.gif)
+
+### 2. Add Student
+![Add Student](images/02_Add_Student.png.gif)
+
+### 3. Display Student
+![Display Student](images/03_Display_Student.png.gif)
+
+### 4. Search Student
+![Search Student](images/04_Search_Student.png.gif)
+
+### 5. Exit Program
+![Exit Program](images/05_Exit.png.gif)
+
+
+---
+
+## 📷 Output Preview
+
+This project is successfully compiled and executed using C++. The following screenshots demonstrate the working of the Student Management System.
 
 ---
 
